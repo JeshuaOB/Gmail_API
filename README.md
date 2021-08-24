@@ -1,7 +1,7 @@
 <h1>Gmail_API</h1>
 <h2>Contenido del repositorio</h2>
 <p>
-Este repositorio se divide en dos proyectos:
+Este repositorio se divide en dos proyectos realizados sobre Python:
 <ul>
 <li>Un script capaz de conectarse a la API de Gmail y mostrar cuantos correos sin leer tenemos en cada una de las cuentas definidas en un archivo XLSX externo. Los archivos que constituyen este proyecto son:
 <ul>

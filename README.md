@@ -25,7 +25,7 @@ Este repositorio se divide en dos proyectos realizados sobre Python:
 <li>Permitir el acceso a nuestra cuenta de Google para que nuestro script sea capaz de iniciar sesión en Gmail. Podemos activar el permiso a través del siguiente enlace: https://accounts.google.com/b/0/DisplayUnlockCaptcha (su activación es temporal, por lo que puede que tengamos que volver a activarlo transcurrido un tiempo).</li>
 </ul>
 </p>
-<p>❗ Es necesario importar específicamente la versión 1.2.0 de la libreria "xlrd" de Python para poder abrir archivos XLSX. Para ello, podemos aplicar en la consola el siguiente comando: <i>pip install xlrd==1.2.0</i> .</p>
+<p>❗ Es necesario importar específicamente la versión 1.2.0 de la librería <i>xlrd</i> de Python para poder abrir archivos XLSX. Para ello, podemos aplicar en la consola el siguiente comando: <i>pip install xlrd==1.2.0</i> .</p>
 <p>❗ Para que el programa se ejecute correctamente, es necesario introducir los datos correspondientes en el archivo XLSX respetando el orden establecido en las columnas.</p>
 <p>❗ El mensaje introducido en el archivo XLSX en lenguaje HTML tiene prioridad sobre el mensaje escrito en texto plano, de forma que si queremos enviar un escrito sin etiquetado, deberemos dejar vacía la columna "HTML TEXT" y rellenar únicamente la columna "TEXT".</p>
 <h2>Estado</h2>
